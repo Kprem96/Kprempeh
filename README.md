@@ -16,6 +16,7 @@ I'm open to collaborating on **outsourcing projects**, especially in areas like 
 - **SQL** (Basic querying and data manipulation)
 - **Troubleshooting** (IT support and hardware/software diagnostics)
 - **Python** (Beginner-level scripting and automation)
+- **Power BI** (Data Visualization)
 
 ## Portfolio & Links
 - **Portfolio:** [View My Portfolio](https://github.com/Kprem96/Kprempeh)
